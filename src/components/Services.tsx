@@ -5,7 +5,7 @@ import {
   Wind,
   Droplet,
   Camera,
-  solar-panel,
+  SolarPanel,
   Wrench,
   ArrowRight,
 } from 'lucide-react';
@@ -43,7 +43,7 @@ export function Services() {
       color: 'from-purple-500 to-pink-500',
     },
     {
-      icon: solar-panel,
+      icon: SolarPanel,
       title: 'Paneles Solares',
       description: 'Instalación y mantenimiento',
       color: 'from-green-500 to-emerald-500',
