@@ -5,7 +5,7 @@ import {
   Wind,
   Droplet,
   Camera,
-  Phone,
+  solar-panel,
   Wrench,
   ArrowRight,
 } from 'lucide-react';
