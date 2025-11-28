@@ -20,8 +20,8 @@ export function Services() {
     },
     {
       icon: Monitor,
-      title: 'Computadoras y redes',
-      description: 'Soporte técnico, reparación y configuración de redes',
+      title: 'Mantenimiento de Computadoras',
+      description: 'Soporte técnico, reparación y configuración',
       color: 'from-blue-500 to-cyan-500',
     },
     {
@@ -32,7 +32,7 @@ export function Services() {
     },
     {
       icon: Droplet,
-      title: 'Plomería',
+      title: 'Plomería y fontaneria',
       description: 'Reparaciones, instalaciones y emergencias 24/7',
       color: 'from-blue-600 to-indigo-600',
     },
@@ -44,8 +44,8 @@ export function Services() {
     },
     {
       icon: Phone,
-      title: 'Telecomunicaciones',
-      description: 'VoIP, telefonía y sistemas de comunicación',
+      title: 'Paneles Solares',
+      description: 'Instalación y mantenimiento',
       color: 'from-green-500 to-emerald-500',
     },
     {
